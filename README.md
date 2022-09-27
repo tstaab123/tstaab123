@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tstaab123
 - 👀 I’m interested in collaborating
-- 📫 How to reach me at whatImean.com
+- 📫 How to reach me at www.whatimean.com
 
 <!---
 tstaab123/tstaab123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
